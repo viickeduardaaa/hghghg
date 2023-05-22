@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'poppins', sans-serif;
+
+}
+
+.cabeçalho {
+    background-color: darkred;
+    color: khaki (237, 243, 238);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.imagem-cabeçalho{
+    width: 15%;
+}
+
+.cabeçalho-lista-i{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
